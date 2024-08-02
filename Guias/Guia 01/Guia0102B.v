@@ -4,7 +4,7 @@
 */ 
 module Guia_0102; 
 // define data 
-    integer   bin = 0;         // decimal 
+    integer   bin = 0;       // decimal 
     reg [7:0] a = 8'b10101;  // binary (bits - little endian)
     reg [7:0] b = 8'b11011;  // binary (bits - little endian)
     reg [7:0] c = 8'b10010;  // binary (bits - little endian)
