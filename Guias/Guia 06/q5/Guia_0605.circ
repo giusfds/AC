@@ -114,7 +114,7 @@
     </comp>
     <comp lib="1" loc="(240,280)" name="NOT Gate"/>
     <comp lib="7" loc="(143,42)" name="Text">
-      <a name="text" val="Caio Faria Diniz - 793605"/>
+      <a name="text" val=""/>
     </comp>
     <comp lib="1" loc="(240,220)" name="NOT Gate"/>
   </circuit>

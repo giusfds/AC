@@ -106,7 +106,7 @@
     <wire from="(470,280)" to="(510,280)"/>
     <wire from="(540,290)" to="(570,290)"/>
     <comp lib="7" loc="(105,37)" name="Text">
-      <a name="text" val="Caio Faria Diniz - 793605"/>
+      <a name="text" val=""/>
     </comp>
     <comp lib="1" loc="(450,220)" name="AND Gate">
       <a name="label" val="AND1"/>
