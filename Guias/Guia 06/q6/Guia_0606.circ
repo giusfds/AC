@@ -117,13 +117,11 @@
       <a name="label" val="X"/>
     </comp>
     <comp lib="7" loc="(174,80)" name="Text">
-      <a name="text" val="Expressão: f(X,Y,W,Z) = (X+W) . (X+W') . (Y'+W'+Z')"/>
     </comp>
     <comp lib="1" loc="(310,250)" name="OR Gate">
       <a name="label" val="OR2"/>
     </comp>
     <comp lib="7" loc="(62,59)" name="Text">
-      <a name="text" val="Guia_0606"/>
     </comp>
     <comp lib="0" loc="(570,290)" name="Pin">
       <a name="facing" val="west"/>

@@ -94,10 +94,8 @@
       <a name="label" val="OR1"/>
     </comp>
     <comp lib="7" loc="(163,73)" name="Text">
-      <a name="text" val="Expressão: f(X,Y,Z) = (X+Y') . (X'+Y+Z)"/>
     </comp>
     <comp lib="7" loc="(105,52)" name="Text">
-      <a name="text" val="Guia_0607 - Extra"/>
     </comp>
     <comp lib="1" loc="(200,280)" name="NOT Gate"/>
     <comp lib="1" loc="(460,260)" name="AND Gate">

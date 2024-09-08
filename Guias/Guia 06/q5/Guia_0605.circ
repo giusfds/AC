@@ -89,7 +89,6 @@
       <a name="label" val="AND"/>
     </comp>
     <comp lib="7" loc="(160,85)" name="Text">
-      <a name="text" val="Expressão: f(x,y,z) = (x.z')+(x.y')"/>
     </comp>
     <comp lib="0" loc="(90,170)" name="Pin">
       <a name="facing" val="south"/>
@@ -97,7 +96,7 @@
       <a name="label" val="x"/>
     </comp>
     <comp lib="7" loc="(106,63)" name="Text">
-      <a name="text" val="Guia_0605"/>
+      <a name="text" val=""/>
     </comp>
     <comp lib="0" loc="(470,240)" name="Pin">
       <a name="facing" val="west"/>
